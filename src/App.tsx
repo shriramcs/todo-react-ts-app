@@ -5,7 +5,7 @@ import Todos from './Todos/Todos';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App m-4">
       <AppHeader></AppHeader>
       <Todos></Todos>
     </div>
